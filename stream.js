@@ -7,3 +7,6 @@ const ws = fs.createWriteStream('./02FileSystem/new-lorem.txt');
 rs.on('data', (dataChunk) => {
     ws.write(dataChunk); 
 })
+
+// above code can also be written as:
+rs.pipe(ws);
