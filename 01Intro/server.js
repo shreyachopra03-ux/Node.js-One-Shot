@@ -15,6 +15,7 @@ const path = require('path');
 // or another way of doing the above thing is:
 const { add, subtract, multiply, divide } = require('./math');
 
+
 console.log(add(2,3));
 console.log(subtract(2,3));
 console.log(multiply(2,3));
