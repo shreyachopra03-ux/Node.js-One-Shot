@@ -1,0 +1,27 @@
+{
+  "name": "nodejsoneshot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node 03NpmModules/index",
+    "dev": "nodemon 03NpmModules/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyachopra03-ux/Node.js-One-Shot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyachopra03-ux/Node.js-One-Shot/issues"
+  },
+  "homepage": "https://github.com/shreyachopra03-ux/Node.js-One-Shot#readme",
+  "description": "",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
