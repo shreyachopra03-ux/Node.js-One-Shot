@@ -1,0 +1,12 @@
+07-04-2026	16:14:37	0227e1e2-d2fe-4ceb-ba31-3a83c965795a	/image	GET
+07-04-2026	16:14:37	8186ad57-56f7-4a87-8d8a-e514788a8c72	/css/style.css	GET
+07-04-2026	16:14:48	ab244e04-c3aa-406d-856f-0d7bd8fa5e18	/new-pge.html	GET
+07-04-2026	16:14:48	6ac2b23c-43d5-4bb6-8fff-db106686b99f	/css/style.css	GET
+07-04-2026	16:14:56	f6472402-a463-4aab-a11d-f89b92941e18	/new-page.html	GET
+07-04-2026	16:14:57	98ee3e3e-47b4-4b8c-b753-4509b7d44cc7	/css/style.css	GET
+07-04-2026	16:14:57	0a53b25c-6ede-4be9-b1d6-47ab3f40a1f8	/img/img1.jpg	GET
+07-04-2026	16:16:18	eadc135e-70bc-42a6-950c-dae30b16b806	/new-page.html	GET
+07-04-2026	16:16:18	e5ebf817-54c5-4c01-adb0-48d3332474e1	TypeError : fsPromises.readFil is not a function
+07-04-2026	16:16:44	43a99d73-de3d-4da0-9550-90ed83d1556d	/new-page.html	GET
+07-04-2026	16:16:44	45897669-2e87-481a-b20f-82755e0548d2	/css/style.css	GET
+07-04-2026	16:16:44	16578db5-f814-4d83-9d7a-994ae9d3b33a	/img/img1.jpg	GET
