@@ -18,6 +18,7 @@
   "homepage": "https://github.com/shreyachopra03-ux/Node.js-One-Shot#readme",
   "description": "",
   "dependencies": {
+    "cors": "^2.8.6",
     "date-fns": "^4.1.0",
     "express": "^5.2.1",
     "uuid": "^13.0.0"
